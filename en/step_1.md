@@ -1,59 +1,43 @@
-## Introduction
+## Hosting your Unity Project
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+When your project is complete, you can share it with your others.
 
-### What you will make
+To share your project, you need to upload it to a web server. There are many ways of doing this, but one the simplest and easiest is to use [repl.it](https://replit.com/signup?from=landing).
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Open repl.it in your web browser, and either sign in, or sign up for an account if you don't have one.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+![signup and signin for for replit](images/replit_signup.png)
+
+Create a new Repl by clicking the **Create Repl** button.
+
+![create repl button](images/9_create_repl.png)
+
+Choose to make an **HTML, CSS, JS** project, then give your project a name and click the **Create Repl** button.
+
+![html, css, js menu for creating a new repl](images/10_html_repl.png)
+
+Use the three dot menus to **Delete** all the files in the project.
+
+![menu selected for the index file and the Delete button shown in red](images/11_delete_files.png)
+
+You can now drag and drop all your build files into your repl.it project.
+
+![animation of the Build, TemplateData and index.html transferred to repl.it](images/transfer_files.gif)
+
+Click on the **Run** button and you should see your game running in the output window.
+
+![game running shown in the output window](images/transfer_files.gif)
+
+At the top of the output window, you will see a URL. This is the URL of your game, that you can then share with people.
+
+![url copy and pasted into the browser window to show the game running online](images/share_online.gif)
+
+<div>
+  <iframe allowtransparency="true" width="500" height="400" src="https://sharegame.marcscott.repl.co/" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
 
-### Software
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
