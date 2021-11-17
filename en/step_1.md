@@ -2,9 +2,9 @@
 
 When your project is complete, you can share it with your others.
 
-To share your project, you need to upload it to a web server. There are many ways of doing this, but one the simplest and easiest is to use [repl.it](https://replit.com/signup?from=landing).
+To share your project, you need to upload it to a web server. There are many ways of doing this, but one the simplest and easiest is to use [replit](https://replit.com/signup?from=landing).
 
-Open repl.it in your web browser, and either sign in, or sign up for an account if you don't have one.
+Open [replit](https://replit.com/signup?from=landing) in your web browser, and either sign in, or sign up for an account if you don't have one.
 
 ![signup and signin for for replit](images/replit_signup.png)
 
@@ -26,7 +26,7 @@ You can now drag and drop all your build files into your repl.it project.
 
 Click on the **Run** button and you should see your game running in the output window.
 
-![game running shown in the output window](images/transfer_files.gif)
+![game running shown in the output window](images/run_replit.gif)
 
 At the top of the output window, you will see a URL. This is the URL of your game, that you can then share with people.
 
