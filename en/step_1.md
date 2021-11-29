@@ -1,5 +1,3 @@
-## Hosting your Unity Project
-
 When your project is complete, you can share it with your others.
 
 To share your project, you need to upload it to a web server. There are many ways of doing this, but one the simplest and easiest is to use [replit](https://replit.com/signup?from=landing).
