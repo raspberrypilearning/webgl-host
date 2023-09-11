@@ -1,34 +1,34 @@
-When your project is complete, you can share it with your others.
+Lorsque ton projet est terminé, tu peux le partager avec les autres.
 
-To share your project, you need to upload it to a web server. There are many ways of doing this, but one the simplest and easiest is to use [replit](https://replit.com/signup?from=landing).
+Pour partager ton projet, tu dois le télécharger sur un serveur Web. Il existe plusieurs façons de procéder, mais l'une des plus simples consiste à utiliser [replit](https://replit.com/signup?from=landing).
 
-Open [replit](https://replit.com/signup?from=landing) in your web browser, and either sign in, or sign up for an account if you don't have one.
+Ouvre [replit](https://replit.com/signup?from=landing) dans ton navigateur web, et connecte-toi, ou crée un compte si tu n'en as pas.
 
-![signup and signin for for replit](images/replit_signup.png)
+![inscription et connexion à replit](images/replit_signup.png)
 
-Create a new Repl by clicking the **Create Repl** button.
+Crée un nouveau Repl en cliquant sur le bouton **Create Repl**.
 
-![create repl button](images/9_create_repl.png)
+![bouton create repl](images/9_create_repl.png)
 
-Choose to make an **HTML, CSS, JS** project, then give your project a name and click the **Create Repl** button.
+Choisis de faire un projet **HTML, CSS, JS**, puis donne un nom à ton projet et clique sur le bouton **Create Repl**.
 
-![html, css, js menu for creating a new repl](images/10_html_repl.png)
+![menu html, css, js pour créer un nouveau repl](images/10_html_repl.png)
 
-Use the three dot menus to **Delete** all the files in the project.
+Utilise les menus à trois points pour **Supprimer** tous les fichiers du projet.
 
-![menu selected for the index file and the Delete button shown in red](images/11_delete_files.png)
+![menu sélectionné pour le fichier d'index et le bouton Delete affiché en rouge](images/11_delete_files.png)
 
-You can now drag and drop all your build files into your repl.it project.
+Tu peux maintenant faire glisser et déposer tous tes fichiers de build dans ton projet repl.it.
 
-![animation of the Build, TemplateData and index.html transferred to repl.it](images/transfer_files.gif)
+![animation du Build, TemplateData et index.html transférés sur repl.it](images/transfer_files.gif)
 
-Click on the **Run** button and you should see your game running in the output window.
+Clique sur le bouton **Run** et tu devrais voir ton jeu s'exécuter dans la fenêtre de sortie.
 
-![game running shown in the output window](images/run_replit.gif)
+![le jeu en cours d'exécution est affiché dans la fenêtre de sortie](images/run_replit.gif)
 
-At the top of the output window, you will see a URL. This is the URL of your game, that you can then share with people.
+En haut de la fenêtre de sortie, tu verras une URL. Il s'agit de l'URL de ton jeu, que tu peux ensuite partager avec les autres.
 
-![url copy and pasted into the browser window to show the game running online](images/share_online.gif)
+![url copiée et collée dans la fenêtre du navigateur pour montrer que le jeu est exécuté en ligne](images/share_online.gif)
 
 <div>
   <iframe allowtransparency="true" width="500" height="400" src="https://sharegame.marcscott.repl.co/" frameborder="0"></iframe>
