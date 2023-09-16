@@ -1,34 +1,34 @@
-When your project is complete, you can share it with your others.
+Wanneer je project voltooid is, kun je het met anderen delen.
 
-To share your project, you need to upload it to a web server. There are many ways of doing this, but one the simplest and easiest is to use [replit](https://replit.com/signup?from=landing).
+Om jouw project te delen, moet je het uploaden naar een webserver. Er zijn veel manieren om dit te doen, maar een van de eenvoudigste en gemakkelijkste is om [replit](https://replit.com/signup?from=landing)te gebruiken.
 
-Open [replit](https://replit.com/signup?from=landing) in your web browser, and either sign in, or sign up for an account if you don't have one.
+Open [replit](https://replit.com/signup?from=landing) in je webbrowser, log in of meld je aan voor een account als je er nog geen hebt.
 
-![signup and signin for for replit](images/replit_signup.png)
+![aanmelden en inloggen bij replit](images/replit_signup.png)
 
-Create a new Repl by clicking the **Create Repl** button.
+Maak een nieuwe Repl aan door op de **Create Repl** knop te klikken.
 
-![create repl button](images/9_create_repl.png)
+![create repl knop](images/9_create_repl.png)
 
-Choose to make an **HTML, CSS, JS** project, then give your project a name and click the **Create Repl** button.
+Kies om een **HTML, CSS, JS** project te maken, geef je project dan een naam en klik op de **Create Repl** knop.
 
-![html, css, js menu for creating a new repl](images/10_html_repl.png)
+![html-, css-, js-menu voor het maken van een nieuwe repl](images/10_html_repl.png)
 
-Use the three dot menus to **Delete** all the files in the project.
+Gebruik het menu met drie stippen om alle bestanden in het project te **Verwijderen**.
 
-![menu selected for the index file and the Delete button shown in red](images/11_delete_files.png)
+![menu geselecteerd voor het index bestand en de Delete knop in rood weergegeven](images/11_delete_files.png)
 
-You can now drag and drop all your build files into your repl.it project.
+Je kunt nu al je build-bestanden naar je repl.it-project slepen en neerzetten.
 
-![animation of the Build, TemplateData and index.html transferred to repl.it](images/transfer_files.gif)
+![animatie van de Build, TemplateData en index.html overgebracht naar repl.it](images/transfer_files.gif)
 
-Click on the **Run** button and you should see your game running in the output window.
+Klik op de knop **Run** en je zou je spel in het output window moeten zien draaien.
 
-![game running shown in the output window](images/run_replit.gif)
+![spel dat wordt uitgevoerd, weergegeven in het output venster](images/run_replit.gif)
 
-At the top of the output window, you will see a URL. This is the URL of your game, that you can then share with people.
+Aan de bovenkant van het output window zie je een URL. Dit is de URL van je game, die je vervolgens met andere mensen kunt delen.
 
-![url copy and pasted into the browser window to show the game running online](images/share_online.gif)
+![url kopiëren en plakken in het browservenster om te laten zien dat de game online draait](images/share_online.gif)
 
 <div>
   <iframe allowtransparency="true" width="500" height="400" src="https://sharegame.marcscott.repl.co/" frameborder="0"></iframe>
