@@ -1,6 +1,6 @@
 Wanneer je project voltooid is, kun je het met anderen delen.
 
-Om jouw project te delen, moet je het uploaden naar een webserver. Er zijn veel manieren om dit te doen, maar een van de eenvoudigste en gemakkelijkste is om [replit](https://replit.com/signup?from=landing)te gebruiken.
+Om jouw project te delen, moet je het uploaden naar een webserver. Er zijn veel manieren om dit te doen, maar een van de eenvoudigste en gemakkelijkste is om [replit](https://replit.com/signup?from=landing) te gebruiken.
 
 Open [replit](https://replit.com/signup?from=landing) in je webbrowser, log in of meld je aan voor een account als je er nog geen hebt.
 
